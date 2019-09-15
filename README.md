@@ -1,6 +1,6 @@
 # 2019DataAnalysis
 
-**CHINESE INCLUDED**
+> Chinese comments included in source code
 
 This project fetches company data from IEXCloud 
 and then creates a model that predicts the stock growth 
